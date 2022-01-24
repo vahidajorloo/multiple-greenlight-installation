@@ -46,12 +46,12 @@ now open it using nano or vim and edit like this :
 
 
 
-container_name: my-second-greenlight-container
+>container_name: my-second-greenlight-container
 
-change ports from 127.0.0.1:5000:80 to any port that you want like 127.0.0.1:5010:80 
+>change ports from 127.0.0.1:5000:80 to any port that you want like 127.0.0.1:5010:80 
 
-in db part change the port like this : 
-from 127.0.0.1:5235:5235 to 127.0.0.1:5134:5134
+>in db part change the port like this : 
+>>from 127.0.0.1:5235:5235 to 127.0.0.1:5134:5134
 
 you can enter any port that you want
 
