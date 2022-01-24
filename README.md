@@ -1,7 +1,6 @@
 # multiple-greenlight-installation
 how to install multiple greenlight interfaces on a bigbluebutton server
 
-# multiple-greenlight-installation
 hi there you may want to have multiple administration panel for your bbb server so we are going to install two and even more greenlight web interfaces on our bigbluebutton server.
 
 * step 1 :
